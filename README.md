@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamadmarhoon, a junior studying Computer Science at the University of Arizona
+- 👋 Hi, I’m @hamadmarhoon. I am interested in mobile & web development. 
 - 📫 You can reach me at my email: marhoon@arizona.edu
 
 <!---
