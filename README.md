@@ -13,7 +13,7 @@
 - 💼 A senior earning a **B.S. in Computer Science and a B.A. in Philosophy at the University of Arizona**.
 - 🔭 I’m currently working as a **Lead Web Developer at Center for Digital Humanities**
 - 🔎 I am searching for full time opportunities after graduation
-- - 🌱 I’m continuously learning and currently focusing on **Web and Mobile Development**.
+- 🌱 I’m continuously learning and currently focusing on **Web and Mobile Development**.
 - 📫 Feel free to reach me at **marhoon@arizona.edu**
 - 🌐 Visit my portfolio: [hamadmarhoon.com](https://hamadmarhoon.com)
 - 💼 LinkedIn: [Hamad Marhoon](https://www.linkedin.com/in/hamad-marhoon)
